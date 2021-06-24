@@ -2,5 +2,5 @@ package main
 import "fmt"
 
 func main(){
-	fmt.Println("develop branch for organisation")
+	fmt.Println("staging branch for organisation")
 }

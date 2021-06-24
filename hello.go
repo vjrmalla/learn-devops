@@ -2,5 +2,5 @@ package main
 import "fmt"
 
 func main(){
-	fmt.Println("Hello World, I am new to Go")
+	fmt.Println("develop branch for organisation")
 }
